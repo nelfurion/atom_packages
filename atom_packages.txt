@@ -7,7 +7,7 @@ atom-jasmine@0.10.0
 atom-lupa@0.7.43
 atom-monokai-light@0.4.1
 atom-ternjs@0.20.0
-atom-typescript@13.3.0
+atom-typescript@13.4.8
 autoclose-html@0.23.0
 browser-plus@0.0.98
 browser-plus-block@0.0.4
@@ -28,6 +28,7 @@ ide-php@0.7.18
 ide-typescript@0.9.1
 ide-vue@0.1.9
 intentions@1.1.5
+language-docker@1.1.8
 language-gettext@0.6.1
 language-terraform@0.8.1
 language-vue@0.25.0
@@ -41,7 +42,7 @@ linter-scss-lint@3.2.1
 linter-spell@0.15.0
 linter-spell-html@0.7.0
 linter-terraform-syntax@1.3.1
-linter-tslint@1.10.28
+linter-tslint@1.10.38
 linter-ui-default@1.8.0
 markdown-preview-plus@3.9.3
 markdown-writer@2.11.7
@@ -49,8 +50,9 @@ minimap@4.29.9
 monokai-light@0.4.2
 monokai-old-school@3.0.0
 ngdoc-snippets@0.2.0
+pdf-view@0.72.0
 php-cs-fixer@4.1.1
-php-ide-serenata@4.5.3
+php-ide-serenata@5.1.0
 pigments@0.40.2
 platformio-ide-terminal@2.9.4
 project-manager@3.3.7
@@ -60,6 +62,7 @@ script@3.18.1
 select-rectangle@1.0.2
 sk3ltn-syntax@2.0.0
 split-diff@1.6.0
+status-bar-blame@2.0.3
 tab-length@0.1.0
 tag@0.5.0
 todo@0.6.0
