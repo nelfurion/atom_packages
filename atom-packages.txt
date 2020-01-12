@@ -71,4 +71,3 @@ vue-snippets@0.6.0
 vue2-autocomplete@0.1.0-alpha.4
 vuejs2-snippets@1.1.0
 youtube-pane@2.0.0
-

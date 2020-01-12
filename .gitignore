@@ -1,0 +1,14 @@
+/*~
+profiles/*
+
+!profiles/typescript/
+profiles/typescript/*
+!profiles/typescript/atom-packages.txt
+
+!profiles/javascript/
+profiles/javascript/*
+!profiles/javascript/atom-packages.txt
+
+!profiles/php/
+profiles/php/*
+!profiles/php/atom-packages.txt
