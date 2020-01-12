@@ -1,1 +1,5 @@
-minimap@4.29.9
+atom-typescript@13.4.8
+autoclose-html@0.23.0
+ide-css@0.3.3
+ide-typescript@0.9.1
+linter-tslint@1.10.38

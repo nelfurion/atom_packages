@@ -1,0 +1,6 @@
+atom-autocomplete-php@0.25.6
+ide-php@0.7.18
+linter-php@1.6.1
+language-gettext@0.6.1
+php-cs-fixer@4.1.1
+php-ide-serenata@5.1.0
